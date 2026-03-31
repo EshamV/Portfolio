@@ -36,7 +36,7 @@ ___
 [текст ссылки](https://github.com/EshamV/Portfolio/blob/main/code/example.py)
 
 
-![картинка](/code\test.jpg)  
+![картинка](/code/test.jpg)  
 
 Таблица 1. Ролева модель 
 Наимнование Роли | права |
